@@ -1,8 +1,12 @@
 # CV
 
-Hej detta är mitt CV. 
+Hej detta är mitt CV.
 
 Länk till demo: http://joelmaneskold.wieg17.se/CV/
+
+JavaScript: Gjorde en dropdown meny. Tyckte menyn blev riktigt snygg. Användaren ska lätt kunna navigera på sidan. 
+
+CSS & HTML: Valde 
 
 Till en början hade jag visionen av att 4 olika divar på varandra med bild i varje som när man för muspekaren över lyser upp sig, om man sedan trycker på rutan får man en beskrivning. Tex om man klickar på "about me" så ska man få en textruta som poppar upp om information om mig och mina erfarenheter.
 
