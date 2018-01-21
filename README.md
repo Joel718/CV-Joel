@@ -2,7 +2,7 @@
 
 This is my resume.
 
-Länk till demo: http://joelmaneskold.wieg17.se/CV/
+New link to demo: http://joelmaneskold.wieg17.se/CV/
 
 JavaScript: Made a dropdown menu.
 
