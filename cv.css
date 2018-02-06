@@ -61,28 +61,12 @@
       }
 
     h5 {
-    font: bold 24px Sans-Serif !important;
+    font: bold 24px Sans-Serif;
     text-transform:uppercase;
     font-size:38px;
     line-height:1;
     padding:0 0 10px 0;
     }
-
-#f-diw {
-
-    color: black;
-    border-color: orange;
-
-}
-
-#f-diw:hover {
-
-    background-image: url("img/html.png");
-    background-position: center;
-    background-size: cover;
-    color: grey;
-
-}
 
 overflow {
 
@@ -95,41 +79,6 @@ hr {
     height: 2px;
     width: 100%;
     margin: auto;
-}
-
-#f-qod {
-    
-    color: black;
-    font-family: roboto, sans-serif;
-    font-size: 16px;
-    border-color: blue;
-    float: left;
-}
-
-#f-qod:hover {
-    background-image:url("img/css.png");
-    background-position: center;
-    background-size: cover;
-    color: darkblue;
-    font-family: roboto;
-}
-
-#f-htmlipsum {
-    color: black;
-}
-#f-htmlipsum:hover {
-    background-image:url("img/js.png");
-    background-position: center;
-    background-size: cover;
-    color: red;
-}
-#f-qod:hover p {
-    color:#adbde3;
-}
-
-#f-bookshelf:hover {
-    background-color:#ff8400;
-    background-position:186px -1768px;
 }
 
 .dropbtn {
@@ -172,8 +121,3 @@ hr {
 .dropdown a:hover {background-color: #f1f1f1}
 
 .show {display:block;}
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 7a0e57016317b76f74d361f043d345c3bab406dd
