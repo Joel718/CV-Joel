@@ -4,9 +4,6 @@ function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
 }
 
-$( document ).ready(function() {
-
-});
 
 // Stänger "drop-down menyn om man klickar utanför den"
 window.onclick = function(event) {
@@ -20,5 +17,5 @@ window.onclick = function(event) {
             }
         } 
     }
-}
 
+}
