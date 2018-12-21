@@ -62,4 +62,19 @@ h5 {
   left: 0;
   font-size: 16px;
 }
+
+#work {
+
+  height: 1200px;
+  text-align: center;
+
+}
+
 /*# sourceMappingURL=main.css.map */
+
+/* If screen size is 600px wide, or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  #work {
+    height: 800px;
+  }
+}
