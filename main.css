@@ -19,7 +19,11 @@ h1 {
 }
 
 .external:hover {
-  color: #ff7700;
+  color: #006cb2;
+}
+
+#work {
+  text-align: center;
 }
 
 #parag {
@@ -32,25 +36,9 @@ h1 {
   background-size: cover;
   color: white;
   background-color: rgba(0, 0, 0, 0.8);
-  height: 700px;
   border: solid white 1px;
   opacity: 0.9;
-}
-
-a:hover {
-  color: red;
-}
-
-li:hover {
-  background-color: yellow;
-}
-
-h5 {
-  font: bold 24px Sans-Serif;
-  text-transform: uppercase;
-  font-size: 38px;
-  line-height: 1;
-  padding: 0 0 10px 0;
+  height: 1200px;
 }
 
 .scrollDown {
@@ -62,19 +50,4 @@ h5 {
   left: 0;
   font-size: 16px;
 }
-
-#work {
-
-  height: 1200px;
-  text-align: center;
-
-}
-
 /*# sourceMappingURL=main.css.map */
-
-/* If screen size is 600px wide, or less, set the font-size of <div> to 30px */
-@media screen and (max-width: 600px) {
-  #work {
-    height: 800px;
-  }
-}
