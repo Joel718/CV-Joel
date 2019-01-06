@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: black;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  text-align: center;
+}
+
+#work {
+  text-align: center;
+}
+
+#parag {
+  font-size: 70px;
+  margin-left: 8%;
+  margin-top: 15%;
+}
+
+.row {
+  background-size: cover;
+  color: white;
+  border: solid white 1px;
+}
+
+.external {
+  float: right;
+  margin-right: 2%;
+  color: black;
+}
+
+.external:hover {
+  color: rgb(237, 55, 0);
+}
+
+#parag {
+  font-size: 70px;
+  margin-left: 8%;
+  margin-top: 15%;
+  color: rgb(36, 36, 36);
+}
+
+.scrollDown {
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  font-size: 16px;
+  color: black;
+}
+
+.shadowSom {
+  -webkit-box-shadow: -14px 29px 83px -35px rgba(237,55,0,1);
+  -moz-box-shadow: -14px 29px 83px -35px rgba(237,55,0,1);
+  box-shadow: -14px 29px 83px -35px rgba(237,55,0,1);
+}
